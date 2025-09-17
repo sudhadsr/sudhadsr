@@ -21,7 +21,8 @@
 - 🐧 Linux system administration  
 - 🐳 Docker & containerization  
 - 🔧 Jenkins & CI/CD pipelines  
-- ☁️ Cloud infrastructure and DevOps career transitions  
+- ☁️ Cloud infrastructure and DevOps career transitions
+- 🗃️ SQL for DevOps and infrastructure data management 
 
 ---
 
