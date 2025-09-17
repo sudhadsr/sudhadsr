@@ -27,8 +27,8 @@
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com]  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Email**: [sudhadsr61@gmail.com]  
+- **LinkedIn**: [www.linkedin.com/in/sudharshan-d-740933384]  
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
 - *(Add portfolio or blog link if available)*
 
